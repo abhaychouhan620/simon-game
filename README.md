@@ -23,18 +23,6 @@ A classic Simon Says memory game built using **HTML**, **CSS**, and **JavaScript
 
 ---
 
-## 📁 Project Structure
-
-```
-simon-game/
-├── README.md
-├── index.html
-├── style.css
-└── app.js
-```
-
----
-
 ## 🎮 How to Play
 
 1. Press any key to start the game.
